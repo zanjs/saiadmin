@@ -16,7 +16,7 @@
         "zoujingli/ip2region": "^2.0",
         "tinywan/jwt": "^1.10",
         "guzzlehttp/guzzle": "^7.8",
-        "saithink/think-validate": "^2.0",
+        "zanjs/think-validate": "^3.0",
         "topthink/think-orm": "^4.0",
         "tinywan/storage": "^1.0",
         "ramsey/uuid": "^4.0",
